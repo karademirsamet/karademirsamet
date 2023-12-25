@@ -1,4 +1,4 @@
-# Merhaba, Ben Samet KAARADEMİR 👋
+# Merhaba, Ben Samet KARADEMİR 👋
 
 ## Teknolojik Yetenekler
 
