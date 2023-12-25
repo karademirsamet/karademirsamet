@@ -35,18 +35,10 @@ Burada dikkat çeken veya geliştirdiğiniz projeleri listeleyebilirsiniz.
 ## İletişim
 
 - LinkedIn: [[LinkedIn Profil Linki](https://www.linkedin.com/in/samet-karademir-8988b6198/)]
-- Twitter: [@TwitterKullaniciAdi]
-- Blog: [Blog veya Kişisel Web Sitesi Linki]
-- E-posta: [E-posta Adresi]
-
-## İlginç Bilgiler
-
-- 🎸 Hobileriniz veya ilginç bilgileriniz
-- 📚 Şu anda okuduğunuz kitaplar
-- 🎮 Sevdiğiniz video oyunları
+- Medium: [Blog veya Kişisel Web Sitesi Linki](https://medium.com/@sametkarademir244)
+- E-posta: [E-posta Adresi](sametkarademir244@gmail.com)
 
 ## GitHub İstatistikleri
 
-[GitHub İstatistik Görüntüsü Ekleyebilirsiniz]
 
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&count_private=true&hide=contribs,prs)
