@@ -41,4 +41,4 @@ Burada dikkat çeken veya geliştirdiğiniz projeleri listeleyebilirsiniz.
 ## GitHub İstatistikleri
 
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&count_private=true&hide=contribs,prs)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=karademirsamet&show_icons=true&count_private=true&hide=contribs,prs)
