@@ -16,7 +16,7 @@ Aşağıda benim çalıştığım veya deneyim sahibi olduğum bazı teknolojile
 
 Burada dikkat çeken veya geliştirdiğiniz projeleri listeleyebilirsiniz.
 
-1. **[EMS Spor Salonu Yöntetim Sistemi]**
+1. **[](EMS Spor Salonu Yöntetim Sistemi)**
    - Açıklama: EMS Spor sisteminde müşteri ve paket takibi, randevu takibi, müşteri gelişim takibi, gelir gider takibi işlemlerini yapabilen, Sms sağlayıcı üzerinden yapılan entegrasyon ile toplu sms gönderim işlemlerini sağlayan admin paneli ve firma bilgi içeren web sayfası bulunan web projesidir.
    - Teknolojiler: Angular, .Net Core Api,  Couchbase
   
