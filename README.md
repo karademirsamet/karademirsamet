@@ -38,7 +38,3 @@ Burada dikkat çeken veya geliştirdiğiniz projeleri listeleyebilirsiniz.
 - Medium: [Blog veya Kişisel Web Sitesi Linki](https://medium.com/@sametkarademir244)
 - E-posta: [E-posta Adresi](sametkarademir244@gmail.com)
 
-## GitHub İstatistikleri
-
-
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=karademirsamet&show_icons=true&count_private=true&hide=contribs,prs)
